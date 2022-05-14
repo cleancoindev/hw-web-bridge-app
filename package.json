@@ -17,7 +17,7 @@
     "@liquality/cryptoassets": "^1.7.3",
     "@liquality/hw-web-bridge": "^0.1.2",
     "core-js": "^3.6.5",
-    "vue": "^3.2.1",
+    "vue": "^3.2.32",
     "vue-router": "^4.0.0-0"
   },
   "devDependencies": {
